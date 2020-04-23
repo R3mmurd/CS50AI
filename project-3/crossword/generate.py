@@ -224,15 +224,12 @@ class CrosswordCreator():
 
             if i_domain_size < m_domain_size:
                 m = i
-            elif i_domain_size > m_domain_size:
-                continue
-
-            # They are equal
-            m_degree = len(self.crossword.neighbors(var_s[m]))
-            i_degree = len(self.crossword.neighbors(var_s[i]))
-
-            if i_degree > m_degree:
-                m = i
+            elif i_domain_size == m_domain_size:
+                m_degree = len(self.crossword.neighbors(var_s[m]))
+                i_degree = len(self.crossword.neighbors(var_s[i]))
+                
+                if i_degree > m_degree:
+                    m = i
         
         return var_s[m]
 
