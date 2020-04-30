@@ -148,7 +148,7 @@ def iterate_pagerank(corpus, damping_factor):
         for page in corpus:
             new_rank = pr(page, corpus, damping_factor, ranks)
             diff = abs(new_rank - ranks[page])
-            change = change or diff > 0.0001
+            change = change or diff > 0.001
             ranks[page] = new_rank
 
     return ranks
