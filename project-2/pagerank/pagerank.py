@@ -135,7 +135,7 @@ def iterate_pagerank(corpus, damping_factor):
             if num_links == 0:
                 sl += ranks[corpus_page]/n
             elif page in links:
-                 sl += ranks[corpus_page]/num_links
+                sl += ranks[corpus_page]/num_links
             
         return (1 - d)/n + d*sl
 
