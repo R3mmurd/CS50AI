@@ -22,11 +22,11 @@ depending on the computer).
 
 Each sentence of our AI’s knowledge, is represented like the below.
 
-$$\{A, B, C, D, E, F, G, H\} = 1$$
+A, B, C, D, E, F, G, H = 1
 
 Every logical sentence in this representation has two parts: a set of cells on the board that are involved in the sentence,
 and a number count, representing the count of how many of those cells are mines. The above logical sentence says that
-out of cells $A$, $B$, $C$, $D$, $E$, $F$, $G$, and $H$, exactly $1$ of them is a mine.
+out of cells A, B, C, D, E, F, G, and H, exactly 1 of them is a mine.
 
 ## Getting Started
 
