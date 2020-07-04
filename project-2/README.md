@@ -1,4 +1,4 @@
-# Project 1: Uncertainty
+# Project 2: Uncertainty
 
 This subdirectory contains two more sundirectories with each of the project
 for the problem "Uncertainty". They are:
