@@ -15,3 +15,9 @@ pip3 install -r requirements.txt
 ```bash
 python3 runner.py
 ```
+
+## Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=rC_KbS8ipfY
+" target="_blank"><img src="http://img.youtube.com/vi/rC_KbS8ipfY/0.jpg"
+alt="Demo Tic-Tac-Toe" width="240" height="180" border="10" /></a>

@@ -50,3 +50,9 @@ Epoch 10/10
 500/500 [==============================] - 10s 20ms/step - loss: 0.2497 - accuracy: 0.9256
 333/333 - 5s - loss: 0.1616 - accuracy: 0.9535
 ```
+
+## Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SnZeJ6aCYJQ
+" target="_blank"><img src="http://img.youtube.com/vi/SnZeJ6aCYJQ/0.jpg"
+alt="Demo Traffic" width="240" height="180" border="10" /></a>

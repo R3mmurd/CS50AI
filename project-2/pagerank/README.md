@@ -34,3 +34,9 @@ PageRank Results from Iteration
   3.html: 0.2202
   4.html: 0.1307
   ```
+
+## Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=20-5o3nFMQM
+" target="_blank"><img src="http://img.youtube.com/vi/20-5o3nFMQM/0.jpg"
+alt="Demo PageRank" width="240" height="180" border="10" /></a>

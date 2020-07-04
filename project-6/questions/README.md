@@ -38,3 +38,9 @@ $ python questions.py corpus
 Query: How do neurons connect in a neural network?
 Neurons of one layer connect only to neurons of the immediately preceding and immediately following layers.s
 ```
+
+## Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kUnSUik0mFg
+" target="_blank"><img src="http://img.youtube.com/vi/kUnSUik0mFg/0.jpg"
+alt="Demo Questions" width="240" height="180" border="10" /></a>

@@ -56,3 +56,9 @@ Pile 3: 7
 AI's Turn
 AI chose to take 1 from pile 2.
 ```
+
+## Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zyxF8m-F--M
+" target="_blank"><img src="http://img.youtube.com/vi/zyxF8m-F--M/0.jpg"
+alt="Demo Nim" width="240" height="180" border="10" /></a>

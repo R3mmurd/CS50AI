@@ -41,3 +41,9 @@ pip3 install -r requirements.txt
 ```bash
 python3 runner.py
 ```
+
+## Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4EhTknQB11s
+" target="_blank"><img src="http://img.youtube.com/vi/4EhTknQB11s/0.jpg"
+alt="Demo Minesweeper" width="240" height="180" border="10" /></a>

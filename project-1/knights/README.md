@@ -51,4 +51,9 @@ Every sentence spoken by a knight is true, and every sentence spoken by a knave 
 ```bash
 python puzzle.py
 ```
-    
+
+## Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=n8UPlfabaWs
+" target="_blank"><img src="http://img.youtube.com/vi/n8UPlfabaWs/0.jpg"
+alt="Demo Knights" width="240" height="180" border="10" /></a>

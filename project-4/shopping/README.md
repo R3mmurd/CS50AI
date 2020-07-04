@@ -40,3 +40,9 @@ Incorrect: 844
 True Positive Rate: 41.02%
 True Negative Rate: 90.55%
 ```
+
+## Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jburuBa4FXI
+" target="_blank"><img src="http://img.youtube.com/vi/jburuBa4FXI/0.jpg"
+alt="Demo Shopping" width="240" height="180" border="10" /></a>

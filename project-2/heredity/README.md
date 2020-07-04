@@ -63,4 +63,10 @@ Lily:
   Trait:
     True: 0.0000
     False: 1.0000
-    ```
+```
+
+## Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8wdMx0PUVBA
+" target="_blank"><img src="http://img.youtube.com/vi/8wdMx0PUVBA/0.jpg"
+alt="Demo Heredity" width="240" height="180" border="10" /></a>
