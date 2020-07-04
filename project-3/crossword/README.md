@@ -1,8 +1,10 @@
-# Crossword
+# Project 3: Optimization
+
+## Crossword
 
 An AI to generate crossword puzzles.
 
-## Background
+### Background
 
 How might you go about generating a crossword puzzle? Given the structure of a crossword puzzle
 (i.e., which squares of the grid are meant to be filled in with a letter), and a list of words to
@@ -38,7 +40,7 @@ Variable 3’s value.
 For this problem, we’ll add the additional constraint that all words must be different: the same word should
 not be repeated multiple times in the puzzle.
 
-## Usage
+### Usage
 ```bash
 $ python generate.py data/structure1.txt data/words1.txt output.png
 ██████████████
