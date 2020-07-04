@@ -30,4 +30,6 @@ Name: Jennifer Lawrence
 ```
 
 ## Demo
-[![Demo degrees](https://www.youtube.com/watch?v=yRnkHhSkx-k/0.jpg)](https://www.youtube.com/watch?v=yRnkHhSkx-k)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yRnkHhSkx-k
+" target="_blank"><img src="http://img.youtube.com/vi/yRnkHhSkx-k/0.jpg"
+alt="Demo Degrees" width="240" height="180" border="10" /></a>
