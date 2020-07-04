@@ -25,7 +25,7 @@ The following list of subdirectories contains my projects:
 - **project-4**: Contains two projects for the problem "Learning".
   See details [here](project-4/README.md).
 
-- **project-5**: Contains two projects for the problem "Neural Networks".
+- **project-5**: Contains one project for the problem "Neural Networks".
   See details [here](project-5/traffic/README.md).
 
 - **project-6**: Contains two projects for the problem "Language".
