@@ -1,4 +1,4 @@
-[HarvardX: CS50AI](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
+# [HarvardX: CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 
 This repository contains my solutions to the projects of this course.
 You should not use these codes for your own solutions in case you are doing
